@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EduardoVH
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning Java with Spring Boot framework
-- 📫 How to reach me? https://www.linkedin.com/in/eduardo-vázquez-huerta/
+- 📫 How to reach me? https://www.linkedin.com/in/eduardo-vázquez-huerta-130370215/
 
 <!---
 EduardoVH/EduardoVH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
