@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EduardoVH
-- 👀 I’m interested in backend
+- 👀 I’m interested in backend engineering, Java and Python
 - 🌱 I’m currently learning Java with Spring Boot framework
 - 📫 How to reach me? https://www.linkedin.com/in/eduardo-vázquez-huerta-130370215/
 
