@@ -24,6 +24,9 @@
 <table>
     <tbody>
         <tr>
+           <td><a href="#"><img alt="Dart" title="Dart" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
