@@ -21,20 +21,27 @@
 
 ##  **👉 Programming languages**
 
-<p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-</p>
+<table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Python" title="Python" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            </td>
+          <td><a href="#"><img alt="Java" title="Java" height="28px"
+                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
+          
+            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
+                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
+
+        
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 
