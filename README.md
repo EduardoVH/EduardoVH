@@ -19,7 +19,7 @@
 
 <br><br>
 
-##  **👉 Programming languages**
+##  **👉 Tech Stack**
 
 <table>
     <tbody>
