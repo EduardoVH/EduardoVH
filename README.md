@@ -11,9 +11,8 @@
 
 - 🔭 I’m currently studying Software Development
 - 👀 I’m interested in mobile dev and game dev
-- 🌱 I’m currently learning FLutter and Godot
+- 🌱 I’m currently learning Flutter
 - 🎮 In my free time I enjoy playing videogames and watching basketball <img src = "https://media.giphy.com/media/3o6fJ6JXdnY3Y0sMg0/giphy.gif" width = 40px>
-- 😶 I don't know what else to say...
 
 <br><br>
 
