@@ -10,7 +10,7 @@
 <br>
 
 - 🔭 I’m currently studying Software Development
-- 👀 I’m interested in mobile dev and game dev
+- 👀 I’m interested in developing desktop apps and games
 - 🌱 I’m currently learning C# and .NET Framework
 - 🎮 In my free time I enjoy playing videogames and watching basketball <img src = "https://media.giphy.com/media/3o6fJ6JXdnY3Y0sMg0/giphy.gif" width = 40px>
 
