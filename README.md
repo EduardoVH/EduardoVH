@@ -84,6 +84,3 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<img src="https://pbs.twimg.com/profile_banners/1238928456802603008/1664393117/1500x500">
