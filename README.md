@@ -12,10 +12,10 @@
 - 🔭 I’m currently studying Software Development
 - 👀 I’m interested in developing desktop apps and games
 - 🌱 I’m currently learning C# and .NET Framework
-- 🎮 In my free time I enjoy playing videogames and watching basketball <img src = "https://media.giphy.com/media/3o6fJ6JXdnY3Y0sMg0/giphy.gif" width = 40px>
-
+- 📖 In my free time I enjoy reading and watching basketball 🏀
 <br><br>
-
+  <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJiNnVia2w1ZjJ0ZTZldTZ3c3gxb2E4ZHFmcWh0MTgzeXMwNDl1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKr0MMoRmCt909jI7a/giphy.gif" width = 100px>
+  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjloMXE1a2t4YzM2eW1seDN5bmV4cHduajE0c3VibWU4d2YyeHJzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1bB7wtrFvfAatD6mjV/giphy.gif" width = 205px>
 ##  **👉 Tech Stack**
 
 <table>
