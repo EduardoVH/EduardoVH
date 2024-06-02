@@ -25,9 +25,6 @@
              <a href="#"><img alt="C#" title="C#" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></a>
             </td>
             <td>
-             <a href="#"><img alt="ASP.NET" title="ASP.NET" height="28px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Faspnet&psig=AOvVaw1JDu5InZ6EDxVG7kbv3x2f&ust=1717381492850000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC_w-Huu4YDFQAAAAAdAAAAABAE" /></a>
-            </td>
-            <td>
              <a href="#"><img alt="DotNet" title="DotNet" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" /></a>
             </td>
             <td>
