@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying Software Development
 - 👀 I’m interested in back-end technologies and cybersecurity
-- 🌱 I’m currently learning ASP.NET Core Framework
+- 🌱 I’m currently learning ASP.NET MVC
 - 📖 In my free time I enjoy reading and watching basketball 🏀
 <br><br>
   <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJiNnVia2w1ZjJ0ZTZldTZ3c3gxb2E4ZHFmcWh0MTgzeXMwNDl1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKr0MMoRmCt909jI7a/giphy.gif" width = 100px>
