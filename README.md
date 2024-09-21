@@ -10,8 +10,8 @@
 <br>
 
 - 🔭 I’m currently studying Software Development
-- 👀 I’m interested in back-end and game development
-- 🌱 I’m currently learning **ASP.NET** and **Unity**
+- 👀 I’m interested in web development and game development
+- 🌱 I’m currently learning **ASP.NET** and **Angular**
 - 📖 In my free time I enjoy reading and watching films 🎬
 <br><br>
   <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJiNnVia2w1ZjJ0ZTZldTZ3c3gxb2E4ZHFmcWh0MTgzeXMwNDl1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKr0MMoRmCt909jI7a/giphy.gif" width = 100px>
@@ -21,6 +21,9 @@
 
   
 ##  **👉 Tech Stack**
+
+<p>
+<br>
 
 <table>
     <tbody>
@@ -44,9 +47,8 @@
              <a href="#"><img alt="Dart" title="Dart" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" /></a>
             </td>
             <td>
-              <a href="#"><img alt="Flutter" title="Flutter" height="28px" src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td
-            <td>
-              <a href="#"><img alt="Python" title="Python" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+              <a href="#"><img alt="Flutter" title="Flutter" height="28px" src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
+            </td>  
             <td>
               <a href="#"><img alt="Godot" title="Godot" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" /></a>
             </td>
