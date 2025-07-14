@@ -29,13 +29,13 @@
     <tbody>
         <tr>
             <td>
-             <a href="#"><img alt="C#" title="C#" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></a>
+              <a href="#"><img alt="Angular" title="React" height="28px" src="https://cdnlogo.com/logos/r/85/react.svg" /></a>
             </td>
             <td>
               <a href="#"><img alt="TypeScript" title="JavaScript" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /></a>
             </td>
             <td>
-              <a href="#"><img alt="Angular" title="React" height="28px" src="https://cdnlogo.com/logos/r/85/react.svg" /></a>
+             <a href="#"><img alt="C#" title="C#" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></a>
             </td>
             <td>
              <a href="#"><img alt="Unity" title="Unity" height="28px" src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" /></a>
